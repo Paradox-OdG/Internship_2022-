@@ -1,0 +1,5 @@
+1 Check if there is a WIFI connection
+2 Check if there is an internet connection
+3 Check host availability
+4 Check the availability of ports
+5 Login to the server through the management console and check the ssh settings
